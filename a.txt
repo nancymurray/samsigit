@@ -1,6 +1,7 @@
+The author of this file is Nancy Murray. 
 
 this is some test text 
 
 another line of text 
 
-a + b = c
+a + b = d
