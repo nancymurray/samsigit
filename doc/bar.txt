@@ -1,0 +1,6 @@
+this is the bar file 
+
+NANCY 
+
+a + b = c 
+c - b  = a
